@@ -1,1 +1,1 @@
-# Binary-space-partitioning
+# Binary space partitioning
